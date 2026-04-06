@@ -26,5 +26,6 @@ The full notebook is available on Kaggle:
 - Identification of trends and anomalies in app performance
 - Business-oriented insights for developers and analysts
 
-## Author - Aadesh Dixit
-**Data Analyst**
+## Author
+**Aadesh Dixit**
+*-Data Analyst | BI Developer*
